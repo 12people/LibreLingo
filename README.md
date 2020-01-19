@@ -49,6 +49,20 @@ Here's a rough sketch of how  I imagine the milestones of this project:
 * ☐ Dictionary
 * ☐ Speaking exercises
 
+## Compared with alternatives
+
+There are many great tools out there for studying languages. There are a lot of free tools. However I don't know any full-blown language courses
+that are free to use and are released under a free-software license that permits a wide range of freedoms to distribute, modify, fix and adopt
+the course content or the software itself. There are many people who do amazing volunteer work creating language courses for everyone to use. I
+believe that they should have the option to work with a software that doesn't lock their work into a commercial platform. This can guarantee that
+the content can always be accessed by the public.
+
+A more open platform, once it matures, could also open the door for more creative uses. For example, constructed language enthusiast could
+create courses for their languages, humorous courses could be created for entertrainment purposes, or NGOs, employers, schools and other
+organizations could adapt the software or course material to match their specific special needs.
+
+
+
 ## Become a contributor
 
 ### Contribute to course material
